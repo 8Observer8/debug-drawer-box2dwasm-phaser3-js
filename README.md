@@ -8,6 +8,12 @@ Playgrounds:
 - Plunker: https://plnkr.co/edit/0Lim08uzqEJz91V7?preview
 - Glitch: https://glitch.com/edit/#!/caterwauling-muddy-cloak
 
+Topic and discussions:
+
+- Phaser topic: https://phaser.discourse.group/t/the-debug-drawer-of-box2d-wasm-colliders-using-phaser3-and-javascript/13430
+- Phaser discussion: https://github.com/photonstorm/phaser/discussions/6556
+- Box2D-WASM discussion: https://github.com/Birch-san/box2d-wasm/discussions/68
+
 ![debug-drawer-box2dwasm-phaser3-js](https://github.com/8Observer8/debug-drawer-box2dwasm-phaser3-js/assets/3908473/57c46db5-0dce-41c9-a7f3-123cbd54cf81)
 
 Instruction for building and running the project in debug and release using Rollup:
