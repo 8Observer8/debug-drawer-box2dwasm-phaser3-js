@@ -4,7 +4,7 @@ Live demo: https://8observer8.github.io/webgl10-js/debug-drawer-box2dwasm-phaser
 
 Playgrounds:
 
-- Replit: https://replit.com/@8Observer8/Debug-drawer-for-Box2D-WASM-using-Melonjs-and-JS
+- Replit: https://replit.com/@8Observer8/Debug-drawer-for-Box2D-WASM-using-Phaser3-and-JS
 - Plunker: https://plnkr.co/edit/0Lim08uzqEJz91V7?preview
 - Glitch: https://glitch.com/edit/#!/caterwauling-muddy-cloak
 
